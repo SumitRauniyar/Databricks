@@ -26,7 +26,7 @@ schema=[
     },
     {
         "name": "REPORTED_DATE",
-        "type": "STRING",
+        "type": "DATE",
         "required": "NULLABLE"
     },
     {

@@ -1,3 +1,3 @@
 INPUT_FILE="/Users/sumitrauniyar/Documents/gcp_environment/crime.csv"
-PROJECT_ID='edm-shared-development'
-STAGING_DATASET='RSCH_NLSN_NTL_STG_TEST_1'
+PROJECT_ID='organic-isotope-217105'
+STAGING_DATASET='sumitrauniyar'

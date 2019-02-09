@@ -2,7 +2,7 @@ from google.cloud import bigquery
 import time
 import json
 from config import vars
-from config import schema_fike
+from config import schema_file
 from google.cloud import pubsub_v1
 
 class CreateTables:
@@ -16,7 +16,7 @@ class CreateTables:
         dataset_ref = client.dataset(self.staging_dataset)
         table_ref = dataset_ref.table('CRIME_RATE_PARTITION')
         schema=[]
-        for column in schema_fike.schema:
+        for column in schema_file.schema:
             name=column["name"]
             type=column["type"]
             required=column["required"]

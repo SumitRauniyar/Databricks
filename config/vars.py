@@ -1,3 +1,8 @@
 INPUT_FILE="/Users/sumitrauniyar/Documents/gcp_environment/crime.csv"
 PROJECT_ID='organic-isotope-217105'
 STAGING_DATASET='sumitrauniyar'
+ACCESS_TOKEN='498457361-QttkimUGbrXdTOJHWyqgmxGkikKRVS2Uwg65uN20'
+ACCESS_SECRET='AWA1uqlnN7OJw32CghjXGCbOB15BiQEtGSM48SIoSxwRL'
+CONSUMER_KEY='H5CdIjYjhc1Zz0FpaHW6w5EZx'
+CONSUMER_SECRET='mYRDNUOVGxb95yQojUR52OEetyJUhR6PzbNcEaFBSbrLuNiQNQ'
+
